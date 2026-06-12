@@ -1,11 +1,11 @@
-# pictures
+# ImageBed
 
 个人图床仓库，图片按主题和章节分目录管理。
 
 ## 目录结构
 
 ```
-pictures/
+ImageBed/
 ├── README.md
 ├── .gitignore
 └── quant/                    # 量化金融系列笔记
@@ -20,6 +20,6 @@ pictures/
 ## 直链格式
 
 ```
-https://raw.githubusercontent.com/5335737347/pictures/main/quant/stage0/stock_data/chart_aapl.png
-https://raw.githubusercontent.com/5335737347/pictures/main/quant/stage0/experiments/exp1_simulation.png
+https://raw.githubusercontent.com/5335737347/ImageBed/main/quant/stage0/stock_data/chart_aapl.png
+https://raw.githubusercontent.com/5335737347/ImageBed/main/quant/stage0/experiments/exp1_simulation.png
 ```
